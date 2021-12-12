@@ -1,0 +1,47 @@
+.SearchForm {
+
+    input {
+        box-sizing: border-box;
+        margin: 0;
+        font-family: inherit;
+        overflow: visible;
+        font-weight: 400;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+        height: calc(1.5em + 1rem + 2px);
+        padding: .5rem 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: .3rem;
+        flex-grow: 1!important;
+        display: inline-block;
+        width: auto;
+        vertical-align: middle;
+    }
+
+    button {
+        box-sizing: border-box;
+        margin: 0;
+        font-family: inherit;
+        overflow: visible;
+        text-transform: none;
+        -webkit-appearance: button;
+        display: inline-block;
+        font-weight: 400;
+        text-align: center;
+        vertical-align: middle;
+        user-select: none;
+        border: 1px solid transparent;
+        color: #fff;
+        background-color: #007bff;
+        border-color: #007bff;
+        padding: .5rem 1rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: .3rem;
+        cursor: pointer;
+    }
+}
