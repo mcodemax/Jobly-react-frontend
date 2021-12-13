@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 See the backend repo made with Express and Postgresql [Jobly-backend](https://github.com/mcodemax/Jobly-react-backend).
 
-See the [working app](lopsided-faucet.surge.sh)!
+See the [working app](https://lopsided-faucet.surge.sh/)!
