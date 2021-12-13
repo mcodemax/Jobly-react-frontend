@@ -31,7 +31,6 @@ function ProfilePage() {
         evt.preventDefault();
         let { 
             password,
-            oldPass,
             firstName,
             lastName,
             email
