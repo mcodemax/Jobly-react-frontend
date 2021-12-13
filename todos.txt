@@ -1,5 +1,0 @@
-1. There's 3 components that need uuid v4?? installed 
-    -CompanyDetailJobs
-    -JobList
-    -CompaniesList
-2. style css 
